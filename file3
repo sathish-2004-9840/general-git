@@ -3,4 +3,9 @@ i create a new file
 i create new 33333
 f1 config 2
 git config master
+<<<<<<< HEAD:file3
 git modify in master22 branch 
+=======
+f2 mas 
+master conf
+>>>>>>> 35c5a92e0d571c50c91e9d5677340737369bc0e4:file1
